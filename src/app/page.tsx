@@ -7,8 +7,6 @@ export default function Home() {
   <h3>Pakistan  </h3>
   
   <Card/>
-  <Card/>
-  
   </div>
   )
 }
