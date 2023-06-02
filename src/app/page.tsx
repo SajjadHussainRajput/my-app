@@ -1,12 +1,15 @@
-import Card from "../../component/card"
+
+import Comp from "../../component/Comp"
+import Navbar from "../../component/Nav";
 
 
 export default function Home() {
-  return ( <div>
-  <h3>Sajjad Hussain </h3>
-  <h3>Pakistan  </h3>
-  
-  <Card/>
-  </div>
-  )
+  return (
+    <div>
+     <Navbar/>
+      <h1>Hello Sajjad Hussain Meo </h1>
+      <Comp />
+      
+    </div>
+  );
 }
