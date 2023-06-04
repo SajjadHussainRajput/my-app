@@ -8,6 +8,7 @@ export default function Home() {
     <div>
      <Navbar/>
       <h1>Hello Sajjad Hussain  </h1>
+      <p>Learning how to push repository by git desktop </p>
       <Comp />
       
     </div>
