@@ -9,7 +9,7 @@ export default function Home() {
      <Navbar/>
       <h1>Hello Sajjad Hussain  </h1>
       <p>Learning how to push repository by git desktop </p>
-      <p>Pakistan </p>
+      <p>Web 3 metaverse </p>
       <Comp />
       
     </div>
